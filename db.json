@@ -1,0 +1,46 @@
+{
+    "users": {
+      "user1": {
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "age": 25
+      },
+      "user2": {
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "age": 32
+      },
+      "user3": {
+        "name": "Bob Johnson",
+        "email": "bobjohnson@example.com",
+        "age": 19
+      }
+    },
+    "messages": {
+      "message1": {
+        "from": "user1",
+        "to": "user2",
+        "content": "Hello, how are you?",
+        "timestamp": 1623478635
+      },
+      "message2": {
+        "from": "user2",
+        "to": "user1",
+        "content": "I'm good, thanks! How about you?",
+        "timestamp": 1623478712
+      }
+    },
+    "posts": {
+      "post1": {
+        "author": "user1",
+        "content": "Today was a great day!",
+        "timestamp": 1623478820
+      },
+      "post2": {
+        "author": "user2",
+        "content": "I love this weather!",
+        "timestamp": 1623478910
+      }
+    }
+  }
+  
